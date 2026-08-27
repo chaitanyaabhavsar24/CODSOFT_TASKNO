@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LUMORA | Build. Create. Inspire.</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">LUM<span>O</span>RA</div>
+  <nav>
+    <a href="#home">Home</a><a href="#about">About</a><a href="#services">Services</a>
+    <a href="#projects">Projects</a><a href="#contact">Contact</a>
+  </nav>
+  <a href="#contact" class="nav-btn">Let's Talk ↗</a>
+</header>
+
+<section class="hero" id="home">
+  <div class="hero-content">
+    <div class="badge">✦ DIGITAL INNOVATION STUDIO</div>
+    <h1>Build.<br><span>Create.</span><br>Inspire.</h1>
+    <p>We transform bold ideas into meaningful digital experiences that connect people, brands and technology.</p>
+    <div class="hero-buttons">
+      <a href="#projects" class="primary-btn">Explore Projects ↗</a>
+      <a href="#about" class="secondary-btn">Discover More</a>
+    </div>
+    <div class="hero-stats">
+      <div><strong>25+</strong><small>Projects</small></div>
+      <div><strong>12+</strong><small>Technologies</small></div>
+      <div><strong>100%</strong><small>Passion</small></div>
+    </div>
+  </div>
+
+  <div class="hero-visual">
+    <div class="floating-card card-one"><span>✦</span> Creative</div>
+    <div class="floating-card card-two"><span>⚡</span> Innovation</div>
+    <div class="main-orb">
+      <div class="orb-ring ring-one"></div><div class="orb-ring ring-two"></div>
+      <div class="orb-center">L</div>
+    </div>
+  </div>
+</section>
+
+<section class="about section" id="about">
+  <div class="section-label">01 — ABOUT LUMORA</div>
+  <div class="about-grid">
+    <h2>Turning ideas into <span>digital reality.</span></h2>
+    <div class="about-text">
+      <p>Lumora is a creative digital studio focused on building modern, engaging and user-friendly experiences.</p>
+      <p>From concept to execution, we combine creativity, design and technology to create solutions that make an impact.</p>
+      <a href="#services" class="text-link">Explore our capabilities →</a>
+    </div>
+  </div>
+</section>
+
+<section class="services section" id="services">
+  <div class="section-heading">
+    <div><div class="section-label">02 — WHAT WE DO</div><h2>Ideas deserve <span>great execution.</span></h2></div>
+    <p>Powerful digital solutions designed to turn imagination into experiences.</p>
+  </div>
+  <div class="service-grid">
+    <div class="service-card"><div class="service-number">01</div><div class="service-icon">◈</div><h3>Web Design</h3><p>Clean, modern and responsive interfaces designed around your audience.</p><a href="#contact">Learn more →</a></div>
+    <div class="service-card featured"><div class="service-number">02</div><div class="service-icon">✦</div><h3>Creative Development</h3><p>Interactive web experiences that combine technology with creativity.</p><a href="#contact">Learn more →</a></div>
+    <div class="service-card"><div class="service-number">03</div><div class="service-icon">◇</div><h3>Digital Strategy</h3><p>Smart digital strategies that help ideas reach the right people.</p><a href="#contact">Learn more →</a></div>
+  </div>
+</section>
+
+<section class="projects section" id="projects">
+  <div class="section-label">03 — FEATURED WORK</div>
+  <div class="projects-heading"><h2>Selected <span>projects.</span></h2><p>A glimpse of what happens when creativity meets technology.</p></div>
+  <div class="project-grid">
+    <article class="project-card project-large"><div class="project-image purple-bg"><div class="project-symbol">✦</div></div><div class="project-info"><div><h3>Nova Finance</h3><p>Fintech • Web Experience</p></div><a href="#contact">↗</a></div></article>
+    <article class="project-card"><div class="project-image blue-bg"><div class="project-symbol">◉</div></div><div class="project-info"><div><h3>Orbit Space</h3><p>Technology • Branding</p></div><a href="#contact">↗</a></div></article>
+    <article class="project-card"><div class="project-image orange-bg"><div class="project-symbol">◇</div></div><div class="project-info"><div><h3>Mono Studio</h3><p>Creative • Portfolio</p></div><a href="#contact">↗</a></div></article>
+  </div>
+</section>
+
+<section class="why section">
+  <div class="why-content">
+    <div class="section-label">04 — WHY LUMORA</div>
+    <h2>Different thinking. <span>Better results.</span></h2>
+    <p>We believe great digital products aren't just beautiful. They should be useful, memorable and built with purpose.</p>
+  </div>
+  <div class="why-list">
+    <div class="why-item"><span>01</span><h3>Creative First</h3><p>Ideas before templates.</p></div>
+    <div class="why-item"><span>02</span><h3>User Focused</h3><p>Designed for real people.</p></div>
+    <div class="why-item"><span>03</span><h3>Future Ready</h3><p>Built for tomorrow.</p></div>
+  </div>
+</section>
+
+<section class="cta section" id="contact">
+  <div class="cta-box">
+    <div class="section-label">LET'S CREATE SOMETHING</div>
+    <h2>Have an idea? <span>Let's make it happen.</span></h2>
+    <p>Great things start with a simple conversation.</p>
+    <a href="mailto:chaitanyaabhavsar66@gmail.com" class="primary-btn">Start a Conversation ↗</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-top"><div class="footer-logo">LUM<span>O</span>RA</div><p>Build. Create. Inspire.</p></div>
+  <div class="footer-bottom">
+    <p>© 2026 Lumora. Designed & developed with ✦</p>
+    <div class="social-links">
+      <a href="https://github.com/chaitanyaabhavsar24/CODSOFT_TASKNO.git" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/chaitanyaa-bhavsar-675881363" target="_blank">LinkedIn</a>
+      <a href="mailto:chaitanyaabhavsar66@gmail.com">Email</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
